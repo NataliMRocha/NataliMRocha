@@ -4,7 +4,7 @@ My name is Natali, and I'm a Brazilian from Bahia currently residing in São Pau
 
 As I embark on this exciting journey, I find myself diving into the world of programming for the first time at 42. Everything feels like an entirely new universe to me! At this moment, I'm immersing myself in learning C and gaining a better understanding of creating Makefiles.
 
-Currently, my focus lies on the libft project, which marks my first challenge at 42. The purpose of this project is to create a custom C library from scratch, and I'm eagerly honing my skills to complete it successfully. :blush:
+Currently, my focus lies on the GNL project, which marks my second challenge at 42. :blush:
 
 
 

@@ -4,7 +4,7 @@ My name is Natali, and I'm a Brazilian from Bahia currently residing in São Pau
 
 As I embark on this exciting journey, I find myself diving into the world of programming for the first time at 42. Everything feels like an entirely new universe to me! At this moment, I'm immersing myself in learning C and how a machine works.
 
-Currently, my focus lies on the Born2Beroot project, which marks my fourth challenge at 42. :blush:
+Currently, my focus lies on the Born2BeRoot project, which marks my fourth challenge at 42. :blush:
 
 
  ## I'm learning

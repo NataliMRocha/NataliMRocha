@@ -2,7 +2,7 @@
 
 My name is Natali, and I'm a Brazilian from Bahia currently residing in São Paulo. I'm thrilled to introduce myself as a Software Engineering student at 42 São Paulo. 💻
 
-As I embark on this exciting journey, I find myself diving into the world of programming for the first time at 42. Everything feels like an entirely new universe to me! At this moment, I'm immersing myself in learning C and how a machine works.
+As I embark on this exciting journey, I find myself diving into the world of programming for the first time at 42. Everything feels like an entirely new universe to me! At this moment, I'm immersing myself in learning C, C# and how a machine works.
 
 Currently, my focus lies on the Born2BeRoot project, which marks my fourth challenge at 42. :blush:
 

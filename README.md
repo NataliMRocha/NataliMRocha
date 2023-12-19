@@ -1,17 +1,18 @@
-## Hello, everyone! :alien:
+## Oie!! :alien:
 
-My name is Natali, and I'm a Brazilian from Bahia currently residing in São Paulo. I'm thrilled to introduce myself as a Software Engineering student at 42 São Paulo. 💻
+Meu nome é Natali, sou brasileira, baiana e moro em São Paulo.  
+Tenho o prazer de me apresentar como estudante de Engenharia de Software na 42 São Paulo. 💻  
+Estou em transição de carreira, saindo de Gastronomia para mergulhar no mundo da programação pela primeira vez aos 29 anos.  
+Neste momento estou imersa no aprendizado de C, lógica de programação, algoritmos e git.
 
-As I embark on this exciting journey, I find myself diving into the world of programming for the first time at 42. Everything feels like an entirely new universe to me! At this moment, I'm immersing myself in learning C, C# and how a machine works.
-
-Currently, my focus lies on the So_long project, which marks my fifthy challenge at 42. :blush:
+Atualmente meu foco está no projeto Push_Swap, um projeto da 42 onde o objetivo é aprender mais sobre algoritmos! :blush:
 
 
- ## I'm learning
+ ## Estou estudando
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/> <img loading="lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> 
         
-## Stay Connected:
+## Se conecte comigo:
 
 <div>
 <a href="https://instagram.com/natalimrocha" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

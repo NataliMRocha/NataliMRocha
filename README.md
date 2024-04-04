@@ -5,8 +5,6 @@ Tenho o prazer de me apresentar como estudante de Engenharia de Software na 42 S
 Estou em transição de carreira, saindo de Gastronomia para mergulhar no mundo da programação pela primeira vez aos 29 anos.  
 Neste momento estou imersa no aprendizado de C, lógica de programação, algoritmos e git.
 
-Atualmente meu foco está no projeto Push_Swap, um projeto da 42 onde o objetivo é aprender mais sobre algoritmos! :blush:
-
 
  ## Estou estudando
 

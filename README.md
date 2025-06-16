@@ -1,14 +1,10 @@
 ## Oie!! :alien:
 
 Meu nome é Natali, sou brasileira, baiana e moro em São Paulo.  
-Tenho o prazer de me apresentar como estudante de Engenharia de Software na 42 São Paulo onde também atuo como Bizdev. 💻  
-Estou em transição de carreira, saindo de Gastronomia para mergulhar no mundo da programação pela primeira vez aos 29 anos.  
-Neste momento estou imersa no aprendizado de C, lógica de programação, algoritmos, gerenciamento de memória, agilidade e git.
+Tenho o prazer de me apresentar como Engenheira de Software, atualmente trabalhando com Engenharia de IA na Votorantim. 💻  
+Fiz uma transição de carreira, saindo de Gastronomia para mergulhar no mundo da programação através da 42 São Paulo.  
+Na 42 aprendi a codar em C e C++ e nas experiências de trabalho desenvolvi conhecimentos em Go e Python.
 
-
- ## Estou estudando
-
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width="40" height="40"/> <img loading="lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> 
         
 ## Se conecte comigo:
 
